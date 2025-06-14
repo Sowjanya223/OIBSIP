@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Home - Welcome</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Welcome, <span id="username"></span>!</h1>
+    <button onclick="logout()">Logout</button>
+    <button onclick="toggleChangePassword()">Change Password</button>
+
+    <div id="changePasswordBox" style="display: none; margin-top: 20px;">
+      <input type="password" id="newPassword" placeholder="New password" />
+      <button onclick="changePassword()">Submit</button>
+    </div>
+    <p id="msg"></p>
+  </div>
+
+  <script src="script.js"></script>
+  <script>
+    showUsername();
+  </script>
+</body>
+</html>

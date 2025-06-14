@@ -1,0 +1,104 @@
+/* General Body Styling */
+body {
+  margin: 0;
+  font-family: 'Poppins', sans-serif;
+  background: linear-gradient(to right, #f2e9e4, #c9ada7);
+  color: #22223b;
+  line-height: 1.7;
+  font-size: 16px;
+}
+
+/* Header Section */
+header {
+  background: linear-gradient(to right, #4a4e69, #22223b);
+  color: #f2e9e4;
+  text-align: center;
+  padding: 60px 20px;
+  font-size: 2.5em;
+  letter-spacing: 1px;
+  font-weight: 600;
+  box-shadow: 0 5px 20px rgba(0, 0, 0, 0.3);
+}
+
+/* Main Container */
+.container {
+  max-width: 1000px;
+  margin: 40px auto;
+  padding: 0 30px;
+}
+
+/* Section Cards */
+.section {
+  background-color: #ffffffdd;
+  border-radius: 20px;
+  padding: 30px;
+  margin-bottom: 40px;
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.15);
+  transition: transform 0.3s ease;
+}
+
+.section:hover {
+  transform: translateY(-5px);
+}
+
+/* Section Titles */
+h2 {
+  color: #4a4e69;
+  margin-bottom: 15px;
+  font-size: 1.8em;
+  border-left: 6px solid #c9ada7;
+  padding-left: 12px;
+}
+
+/* Paragraphs */
+p {
+  font-size: 1.05em;
+  color: #333;
+  text-align: justify;
+}
+
+/* Image Styles */
+.image-gallery {
+  display: flex;
+  text-align: center;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.image-gallery img {
+  width: 250px;
+  max-width: 100%;
+  height: auto;
+  border-radius: 15px;
+  object-fit: cover;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+  transition: transform 0.3s ease;
+}
+
+.image-gallery img:hover {
+  transform: scale(1.15);
+}
+
+/* Footer */
+footer {
+  background-color: #22223b;
+  color: #f2e9e4;
+  text-align: center;
+  padding: 20px;
+  font-size: 1em;
+  border-top: 4px solid #c9ada7;
+}
+
+/* Responsive */
+@media screen and (max-width: 768px) {
+  .image-gallery {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .image-gallery img {
+    width: 90%;
+  }
+}

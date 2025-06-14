@@ -1,0 +1,76 @@
+body {
+  height: 100vh;
+  font-family: Arial, sans-serif;
+  background-image: url('Images/hackers.jpg');
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.container {
+  background: rgba(173, 14, 14, 0.113);
+  padding: 30px 25px;
+  border-radius: 10px;
+  box-shadow: 0 5px 15px rgb(1, 1, 1);
+  width: 100%;
+  max-width: 400px;
+  text-align: center;
+}
+
+h2 {
+  margin-bottom: 20px;
+  color: #333;
+}
+
+input[type="text"], input[type="password"] {
+  width: 100%;
+  padding: 12px 1px 12px 12px;
+  margin: 8px 1px 15px 0px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  font-size: 18px;
+}
+
+button {
+  width: 100%;
+  padding: 12px;
+  background-color: #101010;
+  color: rgb(241, 107, 45);
+  border: none;
+  border-radius: 6px;
+  font-size: 19px;
+  cursor: pointer;
+  margin-top: 10px;
+}
+
+button:hover {
+  background-color: rgb(241, 107, 45);
+  color: #232322;
+  font-size: 19px;
+}
+
+p {
+  font-size: 18px;
+  color: rgb(249, 241, 241);
+  margin: 25px 5px 10px 5px;
+}
+
+.switch {
+  margin-top: 25px;
+  font-size: 18px;
+}
+
+.switch a {
+  color:rgba(237, 232, 232, 0.919);
+  cursor: pointer;
+  text-decoration: none;
+}
+
+@media (max-width: 480px) {
+  .container {
+    margin: 20px;
+    padding: 20px 15px;
+  }
+}

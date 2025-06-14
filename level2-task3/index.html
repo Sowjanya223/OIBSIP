@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>To-Do Web App with Due Date</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>Daily To-Do App</h1>
+  </header>
+
+  <main>
+    <section class="add-task">
+      <input type="text" id="task-input" placeholder="Add a new task..." />
+      <input type="date" id="due-date-input" />
+      <button id="add-task-btn">Add Task</button>
+    </section>
+
+    <section>
+      <h2>Pending Tasks</h2>
+      <ul id="pending-tasks" class="task-list"></ul>
+    </section>
+
+    <section>
+      <h2>Completed Tasks</h2>
+      <ul id="completed-tasks" class="task-list"></ul>
+    </section>
+  </main>
+
+  <footer>
+    <p>To-Do Web App with Due Date ©Sowjanya</p>
+  </footer>
+
+  <script src="main.js"></script>
+</body>
+</html>
