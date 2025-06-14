@@ -1,24 +1,26 @@
-# 🏏 Virat Kohli Tribute Page
+# 🌟 Tribute Page to Dr. A.P.J. Abdul Kalam | OIBSIP Level 2 - Task 2
 
-A royal and vibrant tribute page dedicated to **Virat Kohli**, celebrating his cricketing achievements, records, trophies, and legendary career — including the iconic **IPL 2025 trophy celebration**.
+This project is a heartfelt **tribute page** dedicated to the **Missile Man of India**, **Dr. A.P.J. Abdul Kalam**, developed as part of the **Oasis Infobyte Internship Program (OIBSIP) Level 2 - Task 2**.
 
-## 🚀 Live Demo
+> "Dream, dream, dream. Dreams transform into thoughts and thoughts result in action."  
+> — Dr. A.P.J. Abdul Kalam
 
-🔗 [View Live Tribute Page](https://shekhardegala.github.io/OIBSIP/level2-task2/)
+## 🌐 Live Demo
 
-## 📸 Highlights
+👉 [Click here to view the Tribute Page](https://sowjanya223.github.io/OIBSIP/level2-task2/)
 
-- 🏆 All international records and achievements
-- 🥇 Trophies won during his captaincy (ICC events, IPL, etc.)
-- 📸 High-quality images and a majestic, vibrant layout
-- 📖 Short biography and career timeline
-- 🎨 Styled using HTML & CSS with an appealing modern design
+## 📝 Features
 
-## 🛠️ Technologies Used
+- 🖼️ Clean and responsive design
+- 📜 Highlights the life, achievements, and vision of Dr. Kalam
+- 🎓 Timeline of key events in his journey
+- 🎖️ Quotes and contributions to science and society
+- 📱 Mobile-friendly layout
 
-- HTML5
-- CSS3
-- GitHub Pages
+## 🛠️ Built With
+
+- **HTML5**
+- **CSS3**
 
 
 
