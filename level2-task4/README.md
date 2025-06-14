@@ -23,7 +23,8 @@ A simple login authentication system built using **HTML**, **CSS**, and **JavaSc
 
 | Login Page | 
 
-![image](https://github.com/user-attachments/assets/3500298a-148c-4611-8bea-b3ae92ca06aa) 
+![image](https://github.com/user-attachments/assets/e4f1ddff-39e8-4f3e-86ef-28bf38e841a9)
+
 
 | Home Page  |
 
