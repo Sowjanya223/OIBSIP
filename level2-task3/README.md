@@ -25,7 +25,8 @@ Allows users to add, complete, delete, and manage their daily tasks with ease.
 
 ## 🖼️ Preview
 
-![image](https://github.com/user-attachments/assets/df5e4e6c-41ae-4546-8721-9c797be2b5d1)
+![image](https://github.com/user-attachments/assets/af018659-7524-4bad-aba9-8d1aebf217e9)
+
 
 
 
