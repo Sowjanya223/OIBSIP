@@ -7,7 +7,7 @@ Allows users to add, complete, delete, and manage their daily tasks with ease.
 
 ## 🚀 Live Demo
 
-👉 [Click here to try the To-Do List](https://ShekharDegala.github.io/OIBSIP/level2-task3/) 👈
+👉 [Click here to try the To-Do List](https://Sowjanya223.github.io/OIBSIP/level2-task3/) 👈
 
 ---
 
