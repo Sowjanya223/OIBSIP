@@ -19,7 +19,7 @@ This is a simple, responsive calculator built using **HTML**, **CSS**, and **Jav
   
 ## 🌐 Live Demo
 
-👉 [Open Calculator Live](https://ShekharDegala.github.io/OIBSIP/level2-task1/)
+👉 [Open Calculator Live](https://Sowjanya223.github.io/OIBSIP/level2-task1/)
 
 
 ## 🖼️ Preview
