@@ -16,7 +16,7 @@ A simple login authentication system built using **HTML**, **CSS**, and **JavaSc
 
 ## 🌐 Live Demo
 
-🔗 [Click here to try the Live Demo](https://ShekharDegala.github.io/OIBSIP/level2-task4/)  
+🔗 [Click here to try the Live Demo](https://Sowjanya223.github.io/OIBSIP/level2-task4/)  
 
 ## 🖼️ Screenshots
 
